@@ -14,14 +14,15 @@
 .hljs-keyword {
 	color: blue !important;
 }
+.hljs-attribute {
+    color: blue;
+}
 .hljs-comment{
     color:coral;
 }
-
 .hljs-type {
     color:brown;
 }
-
 .hljs-number {
     color:brown;
 }
