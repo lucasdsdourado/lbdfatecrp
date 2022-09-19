@@ -1,0 +1,36 @@
+.rs_format{
+    border: double;
+    padding: 10px;
+
+    width: 100%;
+}
+
+.tx_format{
+    border: 1px solid;
+    margin: 10px;
+
+}
+
+.hljs-keyword {
+	color: blue !important;
+}
+.hljs-comment{
+    color:coral;
+}
+
+.hljs-type {
+    color:brown;
+}
+
+.hljs-number {
+    color:brown;
+}
+.hljs-string {
+    color:green;
+}
+
+
+.hljs{
+    background: #fff;
+    color: black;
+}
